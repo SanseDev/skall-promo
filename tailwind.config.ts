@@ -23,11 +23,12 @@ const config = {
         600: "#2563eb",
         DEFAULT: "#1d4ed8",
         800: "#1e40af",
+        950: "#172554",
       },
 
       gray: {
         200: "#e5e7eb",
-        DEFAULT: "#d1d5db",
+        DEFAULT: "#f3f4f6",
         400: "#9ca3af",
         500: "#6b7280",
         600: "#4b5563",
